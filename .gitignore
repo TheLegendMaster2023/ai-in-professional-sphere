@@ -1,0 +1,13 @@
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Python cache (if any scripts are added)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
